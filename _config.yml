@@ -7,11 +7,11 @@ canonical: http://blog.mingan.name
 owner:
   name:           Štěpán Pilař
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          ja@mingan.nam
+  bio:            ""
   twitter:        Mingan
+  facebook:       StepanPilar
   github:         Mingan
-  disqus:         mingan
+  disqus:         mingan8
   location:       "Prague, Czech republic"
   # Plug in your disqus shortname!
 
@@ -19,14 +19,16 @@ tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
 
+ga: "UA-4390702-4"
+
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+# links:
+#   - title: About
+#     url: /about
+#   - title: Cole Who?
+#     url: http://coletownsend.com
+#     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Prague
@@ -47,6 +49,7 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
+
 
 sass:
     style: :compressed

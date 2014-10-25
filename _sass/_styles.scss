@@ -290,12 +290,11 @@ header.site-header nav {
     }
     
     .featured-image {
-        vertical-align: middle;
         min-height: 360px;
         height: 50vh;
         width: 100%;
         max-height: 800px;
-        background-position: center center;
+        background-position: center top;
         background-size: cover;
         vertical-align: middle;
         -webkit-background-size: cover;
@@ -393,7 +392,7 @@ header.site-header nav {
             }
             
             a:before {
-                content:'“';
+                content:'\201c';
                 color: $grey-light;
                 position: absolute;
                 margin-left: -70px;
