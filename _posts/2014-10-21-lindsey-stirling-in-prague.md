@@ -2,6 +2,7 @@
 layout: post
 title: "Lindsey Stirling in Prague"
 category: articles
+comments: true
 tags: [music, event]
 image:
   feature: lindsey.jpg
