@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+title: "Hugh Howey: Shift"
+category: articles
+comments: true
+tags: [books]
 ---
 
 ## Hugh Howey: Shift
