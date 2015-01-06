@@ -4,6 +4,8 @@ title: "Hugh Howey: Shift"
 category: articles
 comments: true
 tags: [books]
+image:
+  feature: wool.jpg
 ---
 
 ## Hugh Howey: Shift
