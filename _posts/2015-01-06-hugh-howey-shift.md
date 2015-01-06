@@ -3,12 +3,12 @@ layout: post
 title: "Hugh Howey: Shift"
 category: articles
 comments: true
-tags: [books]
-image:
+tags: 
+  - books
+image: 
   feature: wool.jpg
+published: true
 ---
-
-## Hugh Howey: Shift
 
 _[Shift](https://www.goodreads.com/book/show/17391185-shift "GoodReads")_ is a post-apocalyptic novel by Hugh Howey set over the next several centuries near Atlanta. The book itself contains chapters six to eight from total of nine in the **Silo** series. More about the creation of the book can be found on [the wiki page](http://en.wikipedia.org/wiki/Silo_%28series%29 "Wikipedia").
 
