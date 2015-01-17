@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Kent Beck: Extreme Programming"
 tags:
