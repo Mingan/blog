@@ -8,7 +8,7 @@ category: articles
 comments: true
 ---
 
-__[Extreme Programming](https://www.goodreads.com/book/show/10110673-extr-mn-programov-n)__ by Kent Beck is hardly a new book. XP and other agile methodologies have been rehashed over and over, interpreted and re-interpreted, mixed and stirred, elaborated and simplified at least as much as Wittgenstein. This book goes to the root of XP and explains all about it or at least quite a lot.
+_[Extreme Programming](https://www.goodreads.com/book/show/10110673-extr-mn-programov-n)_ by Kent Beck is hardly a new book. XP and other agile methodologies have been rehashed over and over, interpreted and re-interpreted, mixed and stirred, elaborated and simplified at least as much as Wittgenstein. This book goes to the root of XP and explains all about it or at least quite a lot.
 
 First off the book is really short, structured in sections Problem, Solution and Implementation composed of 36 brief chapters which are nicely summarized in the contents. There is no need to go through all of the chapters and discuss individual points but still I want to mention at least some of them.
 
