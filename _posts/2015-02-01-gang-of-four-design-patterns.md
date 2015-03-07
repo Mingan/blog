@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Gang of Four: Desing Patterns"
 tags: 
