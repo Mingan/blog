@@ -1,5 +1,11 @@
 ---
 published: false
+title: "Nassim N. Taleb: Fooled by Randomness"
+layout: post
+tags: 
+  - books
+category: articles
+comments: true
 ---
 
 I have to admit I haven't been reading that much in the last few weeks. It's not surpsising. I generally read in batches with stretches in between. However, I have finished [*Fooled by Randomness*](https://www.goodreads.com/book/show/18244668-zr-dn-nahodilost) by Nassim N. Taleb at the end of my streak and I haven't written anything down about it.
