@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+tags: 
+  - books
+category: articles
+comments: true
+title: "Viktor Mayer-Schönberger, Kenneth Cukier: Big Data: A Revolution That Will Transform How We Live, Work, and Think"
 ---
 
 
