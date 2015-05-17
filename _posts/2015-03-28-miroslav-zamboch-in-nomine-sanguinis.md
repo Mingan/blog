@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Miroslav Žamboch: In Nomine Sanguinis"
 layout: post
 tags: 
@@ -10,7 +10,7 @@ comments: true
 
 The newest book from Miroslav Žamboch called [*In Nomine Sanguinis*](https://www.goodreads.com/book/show/23153484-in-nomine-sanguinis) takes place in the same world as [*In Visio Extremis*](https://www.goodreads.com/book/show/13367862-visio-in-extremis). The hero of the first book is mentioned quite a few times and even appears at the end, serving as deus ex machina that he is (and which killed the first book).
 
-*In Nomine Sanguinis* is luckily much better paced. Žamboch's typical hero - a super<del>man</del>werewolf quits military just to be sucked into a rescue mission of his family back home. His only help is from  an ex-lover and sex bomb and a vampire killer, holocaust survivor and sex bomb turned "I seriously doubt my ancient vampire overlords, let's help this werewolf fight them". The trio step by step uncovers a conspiracy of ancient vampires trying to stay alive and not go mad while the hero faces more and more powerful opponents but manages to stay alive and keep fighting to the bitter end for what he believes.
+*In Nomine Sanguinis* is luckily much better paced. Žamboch's typical hero - a super<del>man</del>werewolf quits military just to be sucked into a rescue mission of his family back home. His only help is from  an ex-lover and sex bomb and a vampire assassin, holocaust survivor and sex bomb turned "I seriously doubt my ancient vampire overlords, let's help this werewolf fight them". The trio step by step uncovers a conspiracy of ancient vampires trying to stay alive and not go mad while the hero faces more and more powerful opponents but manages to stay alive and keep fighting to the bitter end for what he believes.
 
 There's nothing surprising about the story. Women are sexy and smitten with the hero who flips between annoyingly clueless and nonchalant. Vampires and their lackeys are getting more powerful and less willing to die with every encounter. However the escalation is much better paced than in the first book and doesn't go from crazy to unbelievable, but only from wow to crazy.
 
