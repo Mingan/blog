@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 tags: 
   - books
@@ -12,9 +12,9 @@ image:
 
 [Randal Munroe's *What If*](https://www.goodreads.com/book/show/21413662-what-if) has been on top of every chart imaginable and people love it. There's nothing of substance  I can add to that.
 
-I'm not a devout reader of XKCD but enjoy it quite a bit. Pretty much the same goes for the book. I've read it within four days because it's fascinating and funny.
+I'm not a devout reader of XKCD but enjoy it quite a bit. Pretty much the same goes for the book. I've read it in four days because it's fascinating and funny.
 
-Which questions did like the most:
+Which questions did I like the most:
 
 - spent nuclear fuel pool,
 - laser pointers,
