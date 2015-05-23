@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+tags: 
+  - books
+category: articles
+comments: true
+title: "Caleb Doxsey: An Introduction to Programming in Go"
 ---
 
 In my effort to better myself in my job, I try to learn new things about programming, SW development and related issues. Programming languages fall into this group. I rarely get deep into any given language, but I try to sample them, understand how and when to use them to get acquainted with various approches to programming. 
