@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+tags: 
+  - programming
+  - rake
+  - factory girl
+category: articles
+comments: true
+title: "Conflict between FactoryGirl and Rake tasks"
 ---
 
 I'm riding the wave and getting into [Docker](https://www.docker.com/). So far, it seems like an excellent tool. My first experiment was running a container with Postgres which would serve as a testing database when running [RSpec](http://rspec.info/).
