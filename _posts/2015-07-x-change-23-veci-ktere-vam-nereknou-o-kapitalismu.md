@@ -1,4 +1,18 @@
-In the introduction, he blames the 2008 crisis on free market capitalism and continues to outline the 23 unspoken things and claiming, that free market doesn't exist.
+---
+published: false
+layout: post
+tags:
+  - books
+category: articles
+comments: true
+title: "Ha-Joon Chang: 23 Things They Don't Tell You About Capitalism"
+---
+
+I picked up this book because I've heard praise of another book by this author but this one was available at the public library. While I assumed, I'd learn something interesting, it turned out to be an exercise in patience and identifying logical mistakes and fallacies the author uses. Right now, the book is making its round among be friends and relatives and their sentiment is pretty close to mine.
+
+The structure of my notes mirrors the structure of the book - it goes chapter by chapter, point by point. Many of the chapters infuriated be because of the tone and dogmatism. The only thing I don't know is whether this is intentional provocacy prompting readers to argue their positions or it's a genuine belief. I hope for the former.
+
+In the introduction, Change blames the 2008 crisis on free market capitalism and continues to outline the 23 unspoken things about capitalism and claiming, that free market doesn't exist.
 
 ## 1 - Free market doesn't exist
 
@@ -68,7 +82,7 @@ This chapter is a rehash of chapter #7 focused on Africa. Cheng presents economi
 
 In this chapter, Cheng attacks a non-existent opinion which would say that governments can't choose winners. On examples like South Korea, he illustrates, that governments can choose winners in with a long term perspective in mind and even unpopular decisions might benefit the country and therefore all it's companies eventually. To his credit, he lists examples of failure, eg. Concorde, as well.
 
-There are two problems with this chapter. First is that it mixes two groups of projects/companies into one - (visionary) development of a new industry and established industries. The second is that absolutist wording - no one denies that governments can choose winners but, but many people say they less likely to do so than markets.  The chapter even ends by stating that every one governments and markets alike sometimes win and sometimes lose.
+There are two problems with this chapter. First is that it mixes two groups of projects/companies into one - (visionary) development of a new industry and established industries. The second is that absolutist wording - no one denies that governments can choose winners but, but many people say they less likely to do so than markets.  The chapter even ends by stating that every one, governments and markets alike, sometimes win and sometimes lose.
 
 ## 13 - When rich get richer, it doesn't mean that everyone is better offer
 
@@ -87,34 +101,37 @@ As a second argument the percentage of entrepreneurs is compared. It clearly sho
 The later part of the chapter is a criticism of microfinancing which is shown to stimulate only one-person operations. There is a limited number of markets where those can operate and easily become saturated with abundance of microfinancing which drives individual profits down. Only tiny fraction of people grow their business to involve more people and become more self-sufficient
 
 ## 16 - We're not smart enough to entrust everything to markets
-too much choise, irartionality, bounded rationality
+
+In this chapter, Chang discusses a lot of concepts from the field of behaviour economics: choice paralysis, irrationality and bounded rationality, herd mentality etc. His conclusion is that we cannot entrust everything to markets because they're not rational, therefore entrust everything to just a few people who are irrational.
 
 ## 17 - Countries don't get rich thanks to education
 
-Switzerland has low university education ratio and beats many, ed doesn't lead to higher productivity but only better personal life and outlook, title inflation
+This chapter nicely expresses my concerns about higher education. Education is championed as the only avenue to brighter future: the more people learn the more productive they are. While this is true for basic skills like literacy or algebra, the relationship between higher education and personal productivity is at best weak. The amount of training necessary for some disciplines is larger than for others but not necessarily qualitatively different. This topic gets very complicated when different national educational systems and fields are put together. In any case, the developed world suffers from title inflation which is often sponsored by tax payers, but yields only personal benefit for the student. I think that the core of the problem lies in how we perceive education and all the ingrained assumptions and prejudices about it.
 
 ## 18 What is good for GM doesn't have to be good for the USA
 
-Duh, regualtions and permits are good, because they limit the business, ent. get them if they feel it's worth it - absurd logic
+What a surprising name for a chapter in which Chang argues that permits and bureaucracy is good because it makes people and businesses proof that they really are keen to enter the market. While there are types of regulations which have sense and their place, regulations for regulations' sake are just absurd.
 
 ## 19 - We still live in a planned economy
 
-There's a diff between centralized and planned economy
-good point about R&D
-disputable point about long term plannig by gov - assumes competency, vision and interest in the wellbeing beyong reelection
+Now, Chang tries to claim that we live a planned economy which doesn't differ from the socialist model. His arguments are that every enterprise plans ahead, stakes out milestones and invests accordingly; also governments create plans for the future developments and use policies to shape the economy plus they invest into research and development. The greatest error in this argument is the equation put between centrally planned economy and plans of individual participants of the market. Of course, businesses plan but it's definitely not the same as one committee planning the whole economy for five years ahead. The distribution of decisions and plans makes the whole more resilient to failure, because it's local and not global.
+
+The government planning reiterates chapter 12 but also makes a huge assumption that governments have any vision beyond re-election which also includes well-being of the citizens of their countries. That's a giant if and even though this optimistic belief in people is cute, it doesn't affect the real life. The most reasonable piece in this chapter is about R&D where governments are the biggest investors in any country. Recently, I saw a chart showing how much R&D is co-funded by industry and China was leading with some 25 - 35 % and then huge drop off to European countries and the USA. This however ties closely to the role of higher education (chapter 17) and how we perceive it. While education and research are not the same thing, there is a tight relationship between those two. Moreover any research funded by industry is in the field of the investor and if anything comes out of it, it's often perceived as biased. The government in this case serves as a neutralizer of interests - therefore its major role in research funding can be viewed as beneficial.
 
 ## 20 - Equal opportunities don't have to be fair
 
-Having an equal opportunity is good but not enough if you can't take the advantage (you're poor, have no education, need more jobs etc.), reasonable point about high cost of re-education due to nec. education (even though it's hardly enough)
+Chang argues, that having an equal economic opportunity is good but not enough if you can't take the advantage - you're poor, lack education, have to have more jobs just make ends meet etc. This is a reasonable argument in accordance with humane and civilized society. However his predictable solution is to include the government to stack the opportunities so that everyone has the same starting position. This sentiment goes against the natural understanding of equal opportunity, but  if argues carefully, can be framed and promoted. The trouble lies in the involvement of governments which have the tendency to stomp in and create forms and bureaucracy around everything in which the original intent gets easily lost and no one benefits. If governments take any action in this field, the policies should be tightly coupled with the intent and provide mechanisms to evolve and eventually disappear over time.
 
-## 21 - People are more open to changes when they have big gov
+## 21 - People are more open to changes when they have big governments
 
-South Koreans want to be doctors with licence which gives them more stable income than other professions duee to low unemployment support, similar in USA, large social states encourages changes and mobility
+Last three chapters, ufff. Here, Chang argues that big governments are better for change. What he means is for switching careers because people without a job can get unemployment support and have access to re-education in large social states. Citizens in countries like South Korea or the USA look for stable professions they can stick to for their whole lives, e.g. medicine in South Korea.
+
+I'm not completely sure about this point. For starters the concept of switching careers is rather new one and while I can see the individual benefits but also see people who jump around and never really do anything. I accept this fact with the assumption that having a choice and getting a second chance is a good thing and can see how unemployment support can help with that. However, there are people who choose to live off the support (and nothing will change), there are people who do labor intensive unskilled work which don't really need re-education and then the rest. When they switch careers out of their own will, they have enough foresight to plan for it and don't really need that much support; otherwise they are the real beneficiaries of this system. Cheng, however, argues more radical opinion that this is change and this is good. While I understand, it can help people who loose their job, I don't think one can call it a change and look to the bright future.
 
 ## 22 - The efficiency of financial markets has to be lowered, not increased
 
-example of Iceland with deregulation, financial secotr turns around multiples of GDP while the base economy hardly grows, less stable, crazy derivates, duh
+In the next to last chapter, Chang again makes sense. He describes how deregulation of financial sector in Iceland led to its huge growth (where the amount of money turned over reached multiples of GDP) and less stability. There's hardly anything one can argue about. Maybe the means how to achieve stability. He includes the ideas from chapter 8 about the nationality of capital and suggests some sort of regulatory body for financial instruments, similar to FDA. While this makes sense, I can't imagine how the proposed testing process would work. I think, that a better approach would be disallow all the branches of governments and government sponsored programs, e.g. pension funds, to use the new instruments until they are considered to b understood and proven by the government. This would enable those who can and want to risk to still do so and serve as a laboratory, while keeping the government related institutions safe from the new unproven instruments. The key question is how large would these two segments be and whether the restricted one would be large enough. If such a policy was adopted in a significant number of countries, it would definitely lead to a shrinking of the financial sector but I believe that the understood instruments would still form a significant chunk of the market. Significant enough to work.
 
 ## 23 - Good economic solutions don't need good economists
 
-Duh. Many successful countries were lead by lawyers or engineers (South Korea, Japan SE Asia). The real problem is a threat of loss of job when speaking out against the rest
+This last chapter points to economists as a source of many problems, not that the previous chapters didn't poke at them already. Chang illustrates that many successful developments of economy in the last century were designed by non-economists, e.g. lawyers and engineers in South Korea, Japan and other south-east Asian countries, while countries whose economies were shaped by economists failed miserably, e.g. Venezuela and other countries of South America. While this is true, it boils down to [our praise of complexity](/articles/gigerenzer-risk-savvy/) even though simple solutions are at least more understandable if not better every time. It's natural that personal interests of economists who are in power affect their decisions and that unrestrained powers often lead to disastrous results. However, it's not a flaw unique to economists.
