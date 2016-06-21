@@ -14,7 +14,7 @@ comments: true
 
 > **Rob Temple**: *Very British Problems Abroad*
 
-[Very British Problems](https://twitter.com/SoVeryBritish) is a comical Twitter account posting about all the terrible obstacles a normal Brit has to overcome in order to have a cup of tea. It has been published as book grouping the situations by topics and due to the staggering amount of life complications a [second issue](https://www.goodreads.com/book/show/25758341-very-british-problems-abroad) came into existence. This time Brits leave their homeland and wander around.
+[Very British Problems](https://twitter.com/SoVeryBritish) is a comical Twitter account posting about all the terrible obstacles a normal Brit has to overcome in order to have a cup of tea. It has been published as a book grouping the situations by topics and due to the staggering amount of life complications a [second volume](https://www.goodreads.com/book/show/25758341-very-british-problems-abroad) came into existence as well. This time Brits leave their homeland and wander around he globe.
 
 > Using the rowing machine in the on-board gym and imagining you’re powering the whole ship
 
@@ -31,3 +31,5 @@ comments: true
 > Finding Yourself: Going on holiday for so long that you eventually start enjoying it despite yourself
 
 > **Rob Temple**: *Very British Problems Abroad*
+
+There isn't much more to say except: follow the Twitter account for daily dose of British problems and read it on vacation if it crosses your path, if not, don't worry.
