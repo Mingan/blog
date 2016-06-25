@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Henrik Pontoppidan: Lucky Per"
 layout: post
 tags:

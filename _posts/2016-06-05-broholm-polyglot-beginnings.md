@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Kris Broholm: Polyglot Beginnings: The Right Mindset for Learning a New Language"
 layout: post
 tags:

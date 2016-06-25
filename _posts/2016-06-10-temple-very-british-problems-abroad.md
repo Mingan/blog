@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Rob Temple: Very British Problems Abroad"
 layout: post
 tags:
