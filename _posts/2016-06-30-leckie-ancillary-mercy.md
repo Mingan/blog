@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Ann Leckie: Ancillary Mercy"
 layout: post
 tags:
@@ -17,6 +17,6 @@ Judging by the reviews, there are people who are immensely bothered by this deve
 > I am sending local intelligence, and my own official reports, with many thanks for the fleet captain’s offer to pass them on to the appropriate authorities.” And bundled that up with a week’s worth of every scrap of official news I could find, including the results of seventy-five regional downwell radish-growing competitions that had been announced just that morning, which I flagged as worthy of special attention. And a month’s worth of my own routine reports and status records, dozens of them, every single line of every single one of them filled out with exactly the same two words: Fuck off.
 > **Ann Leckie**: *Ancillary Mercy*
 
-After reading some of the negative reviews, I realized, that the conclusion was rather weak and predictably coming, yet I still enjoyed in the way "let me see if I got this figured out correctly". Plus the new translator Dlique is hilarious in his inability to grasp all the nuances of Radch etiquette.
+After reading some of the negative reviews, I realized, that the conclusion was rather weak and predictable, yet I still enjoyed it in the way "let me see if I got this figured out correctly". Plus the new translator Dlique is hilarious in his inability to grasp all the nuances of Radch etiquette.
 
-I wouldn't recommend the series to anyone. The first book is an enticing read set in a great world with fine details everyone could enjoy. But the following books seem to be just for some.
+I wouldn't recommend the series to anyone. The first book is an enticing read set in a great world with fine details everyone could enjoy. But the following books seem to be just for some readers who don't mind more personal stories.
