@@ -15,6 +15,7 @@ The scope of the story gets smaller and smaller. *Ancillary Sword* introduced a 
 Judging by the reviews, there are people who are immensely bothered by this development. I've never been a huge fan of space opera, so I didn't really mind when the story took a turn to a more personal and intimate narrative. I love the running commentary about class, race, personal and professional relationships, tea, and tea china. I don't really miss action (and there's still a lot left anyway) and prefer the focus on politics and subtleties of relationships of all kinds.
 
 > I am sending local intelligence, and my own official reports, with many thanks for the fleet captain’s offer to pass them on to the appropriate authorities.” And bundled that up with a week’s worth of every scrap of official news I could find, including the results of seventy-five regional downwell radish-growing competitions that had been announced just that morning, which I flagged as worthy of special attention. And a month’s worth of my own routine reports and status records, dozens of them, every single line of every single one of them filled out with exactly the same two words: Fuck off.
+>
 > **Ann Leckie**: *Ancillary Mercy*
 
 After reading some of the negative reviews, I realized, that the conclusion was rather weak and predictable, yet I still enjoyed it in the way "let me see if I got this figured out correctly". Plus the new translator Dlique is hilarious in his inability to grasp all the nuances of Radch etiquette.
